@@ -2,7 +2,7 @@
 Unit tests for bank campaign model training script.
 Uses dummy data to test preprocessing and training logic without GCP dependencies.
 
-Updated: Python 3.12, scikit-learn>=1.5.0, xgboost>=2.1.0
+Updated: Python 3.12, scikit-learn>=1.5.0, xgboost>=2.1.0.
 """
 
 import pytest
